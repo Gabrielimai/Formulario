@@ -1,4 +1,4 @@
 # Formulario
-Mais um proj finalizado! 
-Esse é um formular  com requisitos de preenchimento de todos os campos, para que dê check,
-caso contrár  um icone e uma mensagem de erro serão exibids.
+Mais um projeto finalizado!
+Este é um formulário com requisitos de preenchimento de todos os campos para que dê check.
+Caso contrário, um ícone e uma mensagem de erro serão exibidos.
